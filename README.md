@@ -62,15 +62,13 @@ Inspired by real-world AI career tools, this app provides instant feedback, ATS 
 
 ---
 
-## 📸 Screenshot
 
-(Add your app screenshot here)
 
 ---
 
 ## 🙌 Author
 
-- Himani Negi
+- Hemlata Negi
 
 ---
 
